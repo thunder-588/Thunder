@@ -18,13 +18,13 @@ img{
     z-index: 0;
     filter: blur(11px);
     top: 26vh;
-    left: 34vw;
+    left: 30vw;
 }
 
 form{
    position: absolute;
     top: 37vh;
-    left: 48vw;
+    left: 47vw;
     width: fit-content;
     z-index: 1;
 }
